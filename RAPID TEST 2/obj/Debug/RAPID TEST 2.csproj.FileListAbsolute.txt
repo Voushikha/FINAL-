@@ -1,0 +1,11 @@
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\bin\Debug\RAPID TEST 2.exe.config
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\bin\Debug\RAPID TEST 2.exe
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\bin\Debug\RAPID TEST 2.pdb
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\obj\Debug\RAPID TEST 2.csproj.AssemblyReference.cache
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\obj\Debug\RAPID TEST 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\obj\Debug\RAPID_TEST_2.Form1.resources
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\obj\Debug\RAPID_TEST_2.Properties.Resources.resources
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\obj\Debug\RAPID TEST 2.csproj.GenerateResource.cache
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\obj\Debug\RAPID TEST 2.csproj.CoreCompileInputs.cache
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\obj\Debug\RAPID TEST 2.exe
+C:\Users\30077230\OneDrive - TAFE\semester 2\friday\C Sharp\topic4\RAPID TEST 2\obj\Debug\RAPID TEST 2.pdb
